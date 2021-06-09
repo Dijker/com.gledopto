@@ -22,13 +22,13 @@
   },
   "2.0.7": {
     "en": "Color change error correction, Tint RGB corrections"
-  },  
+  },
   "2.0.8": {
     "en": "Color change error correction added for GL-S-007Z"
-  },  
+  },
   "2.0.9": {
     "en": "Corrected endpoint Tint WW , Added extra ID's for gl-g-001zs"
-  },  
+  },
   "2.0.10": {
     "en": "Added GL-B-007Z"
   },
@@ -37,5 +37,11 @@
   },
   "2.0.12": {
     "en": "Added GL-B-007P, GL-G-001P, GL-C-009P and GL-C-006P"
+  },
+  "2.0.13": {
+    "en": "Added GL-C-007P"
+  },
+  "2.0.14": {
+    "en": "Added support for GL-C-007P"
   }
 }

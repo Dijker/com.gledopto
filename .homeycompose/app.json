@@ -1,5 +1,5 @@
 {
-  "id": "com.gledopto",
+  "id": "com.gledopto2",
   "sdk": 3,
   "name": {
     "en": "Gledopto and Tint lights and LED Controllers (ZigBee)",
@@ -11,7 +11,7 @@
   },
   "category": "lights",
   "brandColor": "#C70039",
-  "version": "2.0.12",
+  "version": "2.0.14",
   "compatibility": ">=5.0.0",
   "author": {
     "name": "Marco Ruiter",
